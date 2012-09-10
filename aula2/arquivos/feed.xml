@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>iG - Notícias, Vídeos, Famosos, Esportes, Bate Papo, Infográficos</title>
+    <link>http://ig.ig.com.br/</link>
+    <description>Os melhores vídeos da Internet e as últimas notícias do Brasil e do mundo. Leia também sobre Moda, Games, Cultura, Economia, Turismo, Saúde e mais no iG.</description>
+    <language>pt-br</language>
+    <pubDate>Wed, 5 Sep 2012, 19:36:24 -0300</pubDate>
+    <lastBuildDate>Wed, 5 Sep 2012, 19:36:24 -0300</lastBuildDate>
+    <docs>http://www.ig.com.br/rss.xml</docs>
+    <copyright>© Copyright 2000-2012, Internet Group: iG, iBest e BrTurbo</copyright>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="http://ig.ig.com.br/" rel="self" type="application/rss+xml" />
+    <image>
+      <title>iG - Notícias, Vídeos, Famosos, Esportes, Bate Papo, Infográficos</title>
+      <url>http://images.ig.com.br/logo_ig.gif</url>
+      <link>http://ig.ig.com.br/</link>
+      <width>65</width>
+      <height>80</height>
+    </image>
+    <item>
+      <title>Brasil é ouro, prata e bronze nos 100m</title>
+      <link>http://esporte.ig.com.br/maisesportes/atletismo/2012-09-05/brasil-conquista-ouro-prata-e-bronze-nos-100-m-rasos-t11-das-paralimpiadas.html</link>
+      <description></description>
+      <pubDate></pubDate>
+      <guid>http://esporte.ig.com.br/maisesportes/atletismo/2012-09-05/brasil-conquista-ouro-prata-e-bronze-nos-100-m-rasos-t11-das-paralimpiadas.html</guid>
+    </item>
+    <item>
+      <title>Zanardi dedica ouro ao seu "mentor"</title>
+      <link>http://esporte.ig.com.br/maisesportes/2012-09-05/zanardi-dedica-ouro-obtido-em-londres-2012-a-seu-mentor-no-esporte-paralimpico.html</link>
+      <description></description>
+      <pubDate></pubDate>
+      <guid>http://esporte.ig.com.br/maisesportes/2012-09-05/zanardi-dedica-ouro-obtido-em-londres-2012-a-seu-mentor-no-esporte-paralimpico.html</guid>
+    </item>
+    <item>
+      <title>"Foi uma guerra com o Maluf no PP"</title>
+      <link>http://tvig.ig.com.br/id/8a49802639368a22013997fea3790e72.html</link>
+      <description></description>
+      <pubDate></pubDate>
+      <guid>http://tvig.ig.com.br/id/8a49802639368a22013997fea3790e72.html</guid>
+    </item>
+    <item>
+      <title>Cauã Reymond leva tombo no surfe</title>
+      <link>http://gente.ig.com.br/2012-09-05/caua-reymond-leva-caldo-impressionante-no-rio.html</link>
+      <description></description>
+      <pubDate></pubDate>
+      <guid>http://gente.ig.com.br/2012-09-05/caua-reymond-leva-caldo-impressionante-no-rio.html</guid>
+    </item>
+    <item>
+      <title>Thammy: 'Deveria ter nascido homem'</title>
+      <link> http://gente.ig.com.br/2012-09-05/thammy-gretchen-deveria-ter-nascido-homem.html</link>
+      <description></description>
+      <pubDate></pubDate>
+      <guid> http://gente.ig.com.br/2012-09-05/thammy-gretchen-deveria-ter-nascido-homem.html</guid>
+    </item>
+    <item>
+      <title>Fotos captam silhuetas de animais</title>
+      <link>http://ultimosegundo.ig.com.br/ciencia/meioambiente/2012-09-05/fotografo-africano-capta-silhueta-de-animais-em-parques-ecologicos.html</link>
+      <description>Fotos captam silhuetas de animais</description>
+      <pubDate></pubDate>
+      <guid>http://ultimosegundo.ig.com.br/ciencia/meioambiente/2012-09-05/fotografo-africano-capta-silhueta-de-animais-em-parques-ecologicos.html</guid>
+    </item>
+    <item>
+      <title> Filme aborda caso de eutanásia</title>
+      <link> http://ultimosegundo.ig.com.br/veneza/2012-09-05/ha-muitos-insanos-na-politica-diz-marco-bellocchio-no-festival-de-veneza.html</link>
+      <description></description>
+      <pubDate></pubDate>
+      <guid> http://ultimosegundo.ig.com.br/veneza/2012-09-05/ha-muitos-insanos-na-politica-diz-marco-bellocchio-no-festival-de-veneza.html</guid>
+    </item>
+    <item>
+      <title>Sabe tudo sobre o 7 de setembro?</title>
+      <link>http://iguinho.ig.com.br/teste-independencia.html </link>
+      <description></description>
+      <pubDate></pubDate>
+      <guid>http://iguinho.ig.com.br/teste-independencia.html </guid>
+    </item>
+  </channel>
+</rss> 

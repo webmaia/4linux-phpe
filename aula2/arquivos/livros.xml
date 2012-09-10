@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livros>
+    <livro publicacao="01/06/1984" paginas="271" categoria="Cyberpunk">
+         <titulo>Neuromancer</titulo>
+         <isbn>978-85-7657-049-3</isbn>
+         <preco>22</preco>
+    </livro>
+    <livro publicacao="01/06/1999" paginas="271" categoria="Cyberpunk">
+         <titulo>1080</titulo>
+         <isbn>333-333-333</isbn>
+         <preco>75</preco>
+    </livro>
+    <livro publicacao="01/06/1955" paginas="271" categoria="Cyberpunk">
+         <titulo>Neuromancer</titulo>
+         <isbn>111-111-111</isbn>
+         <preco>98</preco>
+    </livro>
+</livros>
+
+

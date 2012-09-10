@@ -1,0 +1,48 @@
+<?xml version ='1.0' encoding ='UTF-8' ?>
+<definitions name='Calculadora'
+	xmlns:soap='http://schemas.xmlsoap.org/wsdl/soap/'
+	xmlns:xsd='http://www.w3.org/2001/XMLSchema'
+	xmlns:soapenc='http://schemas.xmlsoap.org/soap/encoding/'
+	xmlns:wsdl='http://schemas.xmlsoap.org/wsdl/'
+	xmlns='http://schemas.xmlsoap.org/wsdl/'>
+
+<message name='somarRequest'>
+	<part name='symbol' type='xsd:int'/>
+	<part name='symbol' type='xsd:int'/>
+</message>
+<message name='somarResponse'>
+	<part name='Result' type='xsd:int'/>
+</message>
+
+<portType name='CalculadoraPortType'>
+	<operation name='somar'>
+		<input message='tns:somarRequest'/>
+		<input message='tns:somarRequest'/>
+		<output message='tns:somarResponse'/>
+	</operation>
+</portType>
+
+<binding name='CalculadoraBinding' type='tns:CalculadoraPortType'>
+<soap:binding style='rpc' transport='http://schemas.xmlsoap.org/soap/http'/>
+	<operation name='somar'>
+		<soap:operation soapAction='urn:calculadora#somar'/>
+		<input>
+			<soap:body use='encoded' namespace='urn:calculadora' encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+		</input>
+
+		<output>
+			<soap:body use='encoded' namespace='urn:calculadora' encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+		</output>
+	</operation>
+</binding>
+
+<service name='CalculadoraService'>
+	<port name='CalculadoraPort' binding='CalculadoraBinding'>
+		<soap:address location='server.php'/>
+	</port>
+</service>
+
+</definitions>
+
+
+
