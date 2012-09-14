@@ -1,0 +1,18 @@
+<html>
+<head>
+<script type="text/javascript">
+function executar() {
+    ajax = new XMLHttpRequest();
+    ajax.open("GET", "note.xml", true);
+    ajax.send();
+    ajax.onreadystatechange = function() {
+         if (ajax.readyState == 4 && ajax.status == 200) {
+} }
+    document.write(ajax.responseText);
+}
+</script>
+</head>
+<body>
+<button onclick="executar()">Executar</button>
+</body>
+</html>
