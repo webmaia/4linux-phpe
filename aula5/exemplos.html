@@ -42,9 +42,14 @@
 
 <input type="button" value="some/mostra p's" id="botaoDosPs">
 
-$("#botaoDosPs").click(function(){
-	$('p').hide();
-});
+<script type="text/javascript">
+$(document).ready(function(e) { 
+	$("#botaoDosPs").click(
+		function(){ 
+			$("p").slideToggle()
+		});
+}); 
+</script> 
 
 </body>
 </html>
