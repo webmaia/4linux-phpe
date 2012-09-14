@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Exemplo</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <style>
+
+    </style>
+</head>
+<body>
+
+<div>div aiewuhfaiwe</div>
+<p>p teste de paragrafo</p>
+<div>div que ficara visical</div>
+<p>p outro teste do paragrafo</p>
+<div>tercei​ra div</div>
+<p>conteudo de um paragrafo que desaparecera</p>
+<div>mai​s uma div</div>
+<p>e o ultimo paragrafo</p>
+<input type="button" value="some/mostra p's" id="botaoDosPs">
+
+<script type="text/javascript">
+$(document).ready(function(e) { 
+	$("#botaoDosPs").click(function(){ $("p").hide()});
+}); 
+</script> 
